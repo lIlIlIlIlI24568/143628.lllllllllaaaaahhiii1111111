@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GTAFAW/neilonmacedo153/refs/heads/main/ui.lua"))()
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/GTAFAW/goto/main/ui.lua"))()
+
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/GTAFAW/neilonmacedo153/refs/heads/main/ui.lua"))()
 local GUI = Mercury:Create{
     Name = "小go主页面🕊️",
     Size = UDim2.fromOffset(500, 330),
