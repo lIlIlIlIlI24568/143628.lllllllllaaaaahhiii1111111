@@ -36,7 +36,40 @@ Tab:Button{
 Tab:Button{
 	Name = "🕊️小go游戏中心v2🕊️",
 	Description = "小go 游戏V2",
-	Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/xgomn/Jsjhsbwbjsksnbebshs/refs/heads/main/V2"))() end
+	Callback = function() 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xgomn/Jsjhsbwbjsksnbebshs/refs/heads/main/V2"))() end
+}
+Tab:Button{
+	Name = "小go进入该游戏加载该游戏脚本",
+	Description = "注意没有脚本则会被小go踢出去",
+	Callback = function() 
+        local scrName;
+
+game:GetService("StarterGui"):SetCore("小go搜索中", {Title = "Script",Text = "请稍候...尚未重新执行，或者如果需要很长时间已经重新执行",Duration = 10})
+game:GetService("StarterGui"):SetCore("脚本", {Title = "Script",Text = "检查键后，有时您必须重新执行以使脚本显示",Duration = 10})
+
+if game.GameId == 4367208330 then
+	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/Pressure.py';
+elseif game.GameId == 1235188606 then
+	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/DragonAdventure.py';
+elseif game.GameId == 2440500124 then
+	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/Door.py';
+elseif game.GameId == 2294168059 then
+	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/TheMimic.py';
+elseif game.GameId == 1000233041 then
+	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/SCP3008.py';
+end;
+
+
+if scrName then
+	local source = game:HttpGetAsync(scrName);
+	local Env = loadstring(source);
+	
+	Env();
+else
+	game.Players.LocalPlayer:Kick('没有该脚本，再见🕊️');
+end;
+end
 }
 GUI:Notification{
 	Title = "小go脚本ui界面🕊️🕊️🕊️🕊️",
@@ -47,7 +80,7 @@ GUI:Notification{
 GUI:Notification{
 	Title = "欢迎使用小go ui🕊️🕊️️",
 	Text = "小go加载完成🕊️🕊️",
-	Duration = 5,
+	Duration = 7,
 	Callback = function() end
 }
 Premium:Button{
