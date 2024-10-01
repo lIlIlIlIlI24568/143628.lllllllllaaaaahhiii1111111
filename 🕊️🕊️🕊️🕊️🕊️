@@ -25,7 +25,7 @@ end)
 
 
 Tab:Button{
-	Name = "goto脚本主页",
+	Name = "🕊️goto脚本主页🕊️",
 	Description = "小go 主页",
 	Callback = function() 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xgomn/Bhayjkedswfgvxtgjoplkj/refs/heads/main/goto"))() end
@@ -43,7 +43,7 @@ Tab:Button{
         loadstring(game:HttpGet("https://raw.githubusercontent.com/xgomn/Jsjhsbwbjsksnbebshs/refs/heads/main/V2"))() end
 }
 Tab:Button{
-	Name = "小go进入该游戏加载该游戏脚本🕊️",
+	Name = "🕊️小go进入该游戏加载该游戏脚本🕊️",
 	Description = "注意没有脚本则会被小go踢出去",
 	Callback = function() 
         local scrName;
