@@ -66,7 +66,7 @@ elseif game.GameId == 3624423521 then
 elseif game.GameId == 3741075732 then
 	scrName = 'https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/scrap%20esp.lua';
 elseif game.GameId == 1268927906 then
-	scrName = 'https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/scrap%20esp.lua';
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Muscle%20Legends';
 end;
 
 
