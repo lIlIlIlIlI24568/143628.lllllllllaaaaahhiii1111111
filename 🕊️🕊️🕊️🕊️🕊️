@@ -49,7 +49,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {Title = "小go搜索�
 game:GetService("StarterGui"):SetCore("SendNotification", {Title = "脚本",Text = "检查键后，有时您必须重新执行以使脚本显示",Duration = 10})
 
 if game.GameId == 4367208330 then
-	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/Pressure.py';
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Pressure';
 elseif game.GameId == 1235188606 then
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/DragonAdventure.py';
 elseif game.GameId == 2440500124 then
