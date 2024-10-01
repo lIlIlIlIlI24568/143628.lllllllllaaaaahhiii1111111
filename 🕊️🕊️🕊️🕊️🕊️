@@ -81,7 +81,7 @@ end
 GUI:Notification{
 	Title = "欢迎使用xgo 以下🕊️",
 	Text = "（自启动系统已开启）🥂",
-	Duration = 1,
+	Duration = 2,
 	Callback = function() end
 }
 Premium:Button{
