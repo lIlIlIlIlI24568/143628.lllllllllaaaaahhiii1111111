@@ -14,7 +14,10 @@ local Premium = GUI:Tab{
 	Name = "功能栏🕊🕊🕊️️",
 	Icon = "rbxassetid://16060333448"
 }
-
+local vu = game:GetService("VirtualUser")
+         game:service"NetworkClient".ChildRemoved:Connect(function()
+   game:service"TeleportService":TeleportToPlaceInstance(game.PlaceId, game.JobId, game:service"Players".LocalPlayer);
+end)
 
 
 
@@ -76,15 +79,9 @@ end;
 end
 }
 GUI:Notification{
-	Title = "小go脚本ui界面🕊️🕊️🕊️🕊️",
-	Text = "小go以为你加载..🥂",
-	Duration = 5,
-	Callback = function() end
-}
-GUI:Notification{
-	Title = "欢迎使用小go ui🕊️🕊️️",
-	Text = "小go加载完成🕊️🕊️",
-	Duration = 7,
+	Title = "欢迎使用xgo 以下🕊️",
+	Text = "（自启动系统已开启）🥂",
+	Duration = 1,
 	Callback = function() end
 }
 Premium:Button{
