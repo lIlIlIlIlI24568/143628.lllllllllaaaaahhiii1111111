@@ -53,7 +53,7 @@ if game.GameId == 4367208330 then
 elseif game.GameId == 1235188606 then
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/DragonAdventure.py';
 elseif game.GameId == 2440500124 then
-	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/Door.py';
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/DOORS';
 elseif game.GameId == 2294168059 then
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/TheMimic.py';
 elseif game.GameId == 1000233041 then
