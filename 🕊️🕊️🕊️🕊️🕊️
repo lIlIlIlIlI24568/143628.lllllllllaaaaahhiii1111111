@@ -43,8 +43,8 @@ Tab:Button{
         loadstring(game:HttpGet("https://raw.githubusercontent.com/xgomn/Jsjhsbwbjsksnbebshs/refs/heads/main/V2"))() end
 }
 Tab:Button{
-	Name = "xgo国内外脚本合集",
-	Description = "脚本合集地进入游戏加载   共有:8",
+	Name = "xgo国内外脚本合集            脚本整合器",
+	Description = "脚本合集地 进入游戏加载                     游戏:12",
 	Callback = function() 
         local scrName;
 
