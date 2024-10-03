@@ -67,8 +67,15 @@ elseif game.GameId == 3741075732 then
 	scrName = 'https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/scrap%20esp.lua';
 elseif game.GameId == 1268927906 then
 	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Muscle%20Legends';
+elseif game.GameId == 1415710834 then
+	scrName = 'https://gist.githubusercontent.com/NovaVanity/131e258977e50e1ec0184c72818b8bfd/raw';
+elseif game.GameId == 1335695570 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Ninja%20Legends';
+elseif game.GameId == 1119466531 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Legend%20of%20speed';
+elseif game.GameId == 994732206 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Blox%20Fruits';
 end;
-
 
 if scrName then
 	local source = game:HttpGetAsync(scrName);
