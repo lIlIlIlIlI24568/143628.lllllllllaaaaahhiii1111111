@@ -75,6 +75,30 @@ elseif game.GameId == 1119466531 then
 	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Legend%20of%20speed';
 elseif game.GameId == 994732206 then
 	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Blox%20Fruits';
+elseif game.GameId == 6143226737 then
+	scrName = 'https://raw.githubusercontent.com/Vylo-dev/SoulSociety/main/Boot%20Race%20Sim';
+elseif game.GameId == 2471084 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Lumber%20Tycoon%202';
+elseif game.GameId == 38080813282 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/The%20Strongest%20Battlegrounds';
+elseif game.GameId == 1214576306 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Restaurant%20Tycoon2';
+elseif game.GameId == 1526814825 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/War%20Tycoon';
+elseif game.GameId == 847722000 then
+	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/The%20rake';
+elseif game.GameId == 5800312217 then
+	scrName = 'https://pastebin.com/raw/3KV8KYNG';
+elseif game.GameId == 6466404775 then
+	scrName = 'https://pastebin.com/raw/DAeFR7qv';
+elseif game.GameId == 4775716170 then
+	scrName = 'https://pastefy.app/b6lgDkxK/raw';
+elseif game.GameId == 911750776 then
+	scrName = 'https://pastebin.com/raw/YiBfCEdJ';
+elseif game.GameId == 445448798 then
+	scrName = 'https://pastebin.com/raw/LWtSXnRk';
+elseif game.GameId == 6592224793 then
+	scrName = 'while true do     local args = {   [1] = "roll"}  
 end;
 
 if scrName then
