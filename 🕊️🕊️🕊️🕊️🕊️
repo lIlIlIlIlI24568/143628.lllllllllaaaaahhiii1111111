@@ -98,7 +98,7 @@ elseif game.GameId == 911750776 then
 elseif game.GameId == 445448798 then
 	scrName = 'https://pastebin.com/raw/LWtSXnRk';
 elseif game.GameId == 6592224793 then
-	scrName = 'while true do     local args = {   [1] = "roll"}                 game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))   wait (0.01)   end';
+	scrName = 'https://pastebin.com/raw/UQurmA2F';
 end;
 
 if scrName then
