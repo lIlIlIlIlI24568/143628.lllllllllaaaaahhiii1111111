@@ -44,7 +44,7 @@ Tab:Button{
 }
 Tab:Button{
 	Name = "xgo所有国内外脚本合集                          脚本整合器",
-	Description = "脚本合集  进入游戏加载  可投稿   游戏:24",
+	Description = "脚本合集  进入游戏加载  可投稿   游戏:25",
 	Callback = function() 
         local scrName;
 
