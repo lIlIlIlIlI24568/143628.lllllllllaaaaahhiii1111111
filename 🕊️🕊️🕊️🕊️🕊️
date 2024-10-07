@@ -99,6 +99,8 @@ elseif game.GameId == 445448798 then
 	scrName = 'https://pastebin.com/raw/LWtSXnRk';
 elseif game.GameId == 6592224793 then
 	scrName = 'https://pastebin.com/raw/UQurmA2F';
+elseif game.GameId == 4417057922 then
+	scrName = 'https://pastebin.com/raw/Kn7UkFW5';
 end;
 
 if scrName then
