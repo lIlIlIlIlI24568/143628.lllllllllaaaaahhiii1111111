@@ -131,7 +131,7 @@ Tab:Button{
 }
 Tab:Button{
 	Name = "xgo所有国内外脚本合集                          脚本整合器",
-	Description = "脚本合集  进入游戏加载  可投稿   游戏:27",
+	Description = "脚本合集  进入游戏加载  可投稿   游戏:28",
 	Callback = function() 
         local scrName;
 
@@ -192,6 +192,8 @@ elseif game.GameId == 6537318971 then
 	scrName = 'https://github.com/xgomn/111111/raw/refs/heads/main/%E5%93%A5%E5%93%A5%E5%93%A5%E5%93%A5';
 elseif game.GameId == 4777817887 then
 	scrName = 'https://raw.githubusercontent.com/xgomn/pamn/refs/heads/main/Blade%20Ball';
+elseif game.GameId == 5500599119 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/neilonmacedo153/refs/heads/main/AquaRacer.lua';
 end;
 
 if scrName then
