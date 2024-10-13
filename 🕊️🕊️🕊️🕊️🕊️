@@ -245,6 +245,8 @@ elseif game.GameId == 5500599119 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/neilonmacedo153/refs/heads/main/AquaRacer.lua';
 elseif game.GameId == 6196633103 then
 	scrName = 'https://gist.githubusercontent.com/ExploiterGuy/71a2aafd533aff6ec8a15d261f08bde7/raw/e9a4950b2ee1b338b8941207c484bd8f9f8081b3/Find%2520the%2520Inside%2520Out%25202%2520%255BOBSF%255D';
+elseif game.GameId == 6170013953 then
+	scrName = 'https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/Zen%20Hubs';
 end;
 
 if scrName then
