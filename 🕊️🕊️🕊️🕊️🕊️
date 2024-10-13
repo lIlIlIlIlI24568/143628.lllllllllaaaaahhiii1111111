@@ -247,11 +247,11 @@ elseif game.GameId == 6196633103 then
 	scrName = 'https://gist.githubusercontent.com/ExploiterGuy/71a2aafd533aff6ec8a15d261f08bde7/raw/e9a4950b2ee1b338b8941207c484bd8f9f8081b3/Find%2520the%2520Inside%2520Out%25202%2520%255BOBSF%255D';
 elseif game.GameId == 6170013953 then
 	scrName = 'https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/Zen%20Hubs';
-elseif game.GameId == 6170013953 then
+elseif game.GameId == 4480809144 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E6%81%90%E6%80%96%E8%80%81%E5%A5%B6%E5%A5%B6%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F.lua';
-elseif game.GameId == 6170013953 then
+elseif game.GameId == 10384852727 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E6%81%90%E6%80%96%E8%80%81%E5%A5%B6%E5%A5%B6%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F.lua';
-elseif game.GameId == 6170013953 then
+elseif game.GameId == 10384858885 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E6%81%90%E6%80%96%E8%80%81%E5%A5%B6%E5%A5%B6%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F.lua';
 end;
 
