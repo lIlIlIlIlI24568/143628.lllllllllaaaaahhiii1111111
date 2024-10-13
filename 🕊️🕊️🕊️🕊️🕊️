@@ -180,7 +180,7 @@ Tab:Button{
 }
 Tab:Button{
 	Name = "xgo所有国内外脚本合集                          脚本整合器",
-	Description = "脚本合集  进入游戏加载  可投稿   游戏:30+",
+	Description = "脚本合集  进入游戏加载  可投稿   游戏:31+",
 	Callback = function() 
         local scrName;
 
@@ -249,6 +249,10 @@ elseif game.GameId == 6170013953 then
 	scrName = 'https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/Zen%20Hubs';
 elseif game.GameId == 1430007363 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E6%81%90%E6%80%96%E8%80%81%E5%A5%B6%E5%A5%B6%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F.lua';
+elseif game.GameId == 10384852727 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E6%81%90%E6%80%96%E8%80%81%E5%A5%B6%E5%A5%B6%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F.lua';
+elseif game.GameId == 4019583467 then
+	scrName = 'https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BeNpcOrDie';
 end;
 
 if scrName then
