@@ -253,6 +253,8 @@ elseif game.GameId == 10384852727 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E6%81%90%E6%80%96%E8%80%81%E5%A5%B6%E5%A5%B6%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F.lua';
 elseif game.GameId == 4019583467 then
 	scrName = 'https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BeNpcOrDie';
+elseif game.GameId == 170247232 then
+	scrName = 'https://pastebin.com/raw/FWqjpE3G';
 end;
 
 if scrName then
