@@ -180,7 +180,7 @@ Tab:Button{
 }
 Tab:Button{
 	Name = "xgo所有国内外脚本合集                          脚本整合器",
-	Description = "脚本合集  进入游戏加载  可投稿   游戏:32+",
+	Description = "脚本合集  进入游戏加载  可投稿   游戏:33+",
 	Callback = function() 
         local scrName;
 
@@ -255,6 +255,8 @@ elseif game.GameId == 4019583467 then
 	scrName = 'https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BeNpcOrDie';
 elseif game.GameId == 170247232 then
 	scrName = 'https://pastebin.com/raw/FWqjpE3G';
+elseif game.GameId == 3997370929 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%E5%83%B5%E5%B0%B8%E5%A4%A7%E4%BA%A8.lua';
 end;
 
 if scrName then
