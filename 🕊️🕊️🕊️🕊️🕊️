@@ -180,7 +180,7 @@ Tab:Button{
 }
 Tab:Button{
 	Name = "xgo所有国内外脚本合集                          脚本整合器",
-	Description = "脚本合集  进入游戏加载  可投稿   游戏:35+",
+	Description = "脚本合集  进入游戏加载  可投稿   游戏:39+",
 	Callback = function() 
         local scrName;
 
@@ -261,6 +261,14 @@ elseif game.GameId == 2851381018 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BATaxi.lua';
 elseif game.GameId == 1512676568 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E6%B2%B3%E5%8C%97%E5%94%90%E5%8E%BF%20.lua';
+elseif game.GameId == 6279211894 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E5%BF%AB%E5%A2%9E%E9%87%8F%20.lua';
+elseif game.GameId == 4272959516 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E6%96%B0%E6%89%8B%E5%A4%A7%E4%BA%A8%20.lua';
+elseif game.GameId == 2033913602 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E5%95%86%E5%9C%BA%E5%A4%A7%E4%BA%A8%20.lua';
+elseif game.GameId == 3956729696 then
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E5%90%88%E5%B9%B6%E6%BB%B4%E7%AE%A1%20.lua';
 end;
 
 if scrName then
