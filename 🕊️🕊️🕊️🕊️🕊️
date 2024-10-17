@@ -276,7 +276,7 @@ elseif game.GameId == 2783074114 then
 elseif game.GameId == 3264293423 then
 	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20Five%20Nights%20At%20Freddy%20s%20Doom%E5%BC%97%E9%9B%B7%E5%BE%B7%E7%9A%84%E5%8E%84%E8%BF%90.txt';
 elseif game.GameId == 1480782352 then
-	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E9%94%81%E5%AE%9A%E7%94%A9%E9%A3%9E.lua';
+	scrName = 'https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgoVehicle%20Legends%F0%9F%9A%93CARS.lua';
 end;
 
 if scrName then
