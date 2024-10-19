@@ -158,7 +158,12 @@ end)
 
 
 
-
+Tab:Button{
+	Name = "xgo 新版",
+	Description = "xgo 更新了新版本",
+	Callback = function() 
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/GTAFAW/goto/refs/heads/main/xgo%20%E6%96%B0%E7%89%88%E6%9C%AC.lua"))() end
+}
 
 Tab:Button{
 	Name = "🕊️goto脚本主页🕊️",
