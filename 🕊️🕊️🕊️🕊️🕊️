@@ -193,11 +193,11 @@ game:GetService("StarterGui"):SetCore("SendNotification", {Title = "小go搜索�
 game:GetService("StarterGui"):SetCore("SendNotification", {Title = "脚本",Text = "检查键后，有时您必须重新执行以使脚本显示",Duration = 10})
 
 if game.GameId == 4367208330 then  
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Pressure';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Pressure';
 elseif game.GameId == 1235188606 then 
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/main/DragonAdventure.py';
 elseif game.GameId == 2440500124 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/DOORS';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/DOORS';
 elseif game.GameId == 2294168059 then
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/TheMimic.py';
 elseif game.GameId == 1000233041 then
@@ -207,27 +207,27 @@ elseif game.GameId == 3624423521 then
 elseif game.GameId == 3741075732 then
 	scrName = 'https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/scrap%20esp.lua';
 elseif game.GameId == 1268927906 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Muscle%20Legends';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Muscle%20Legends';
 elseif game.GameId == 1415710834 then
 	scrName = 'https://gist.githubusercontent.com/NovaVanity/131e258977e50e1ec0184c72818b8bfd/raw';
 elseif game.GameId == 1335695570 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Ninja%20Legends';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Ninja%20Legends';
 elseif game.GameId == 1119466531 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Legend%20of%20speed';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Legend%20of%20speed';
 elseif game.GameId == 994732206 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Blox%20Fruits';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Blox%20Fruits';
 elseif game.GameId == 6143226737 then
 	scrName = 'https://raw.githubusercontent.com/Vylo-dev/SoulSociety/main/Boot%20Race%20Sim';
 elseif game.GameId == 2471084 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Lumber%20Tycoon%202';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Lumber%20Tycoon%202';
 elseif game.GameId == 3808081382 then   
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/The%20Strongest%20Battlegrounds';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/The%20Strongest%20Battlegrounds';
 elseif game.GameId == 1214576306 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Restaurant%20Tycoon2';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Restaurant%20Tycoon2';
 elseif game.GameId == 1526814825 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/War%20Tycoon';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/War%20Tycoon';
 elseif game.GameId == 847722000 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/The%20rake';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/The%20rake';
 elseif game.GameId == 5800312217 then
 	scrName = 'https://pastebin.com/raw/3KV8KYNG';
 elseif game.GameId == 6466404775 then
@@ -245,9 +245,9 @@ elseif game.GameId == 4417057922 then
 elseif game.GameId == 6537318971 then
 	scrName = 'https://github.com/xgomn/111111/raw/refs/heads/main/%E5%93%A5%E5%93%A5%E5%93%A5%E5%93%A5';
 elseif game.GameId == 4777817887 then
-	scrName = 'https://raw.githubusercontent.com/xgomn/lllllllllllllllll.panmn.lua/refs/heads/main/Blade%20Ball';
+	scrName = 'https://raw.githubusercontent.com/xgomn/143628lllkaiiiiiwggv.panmn.lua/refs/heads/main/Blade%20Ball';
 elseif game.GameId == 5500599119 then
-	scrName = 'https://raw.githubusercontent.com/GTAFAW/lllllllllllllllll114514xxxxg/refs/heads/main/AquaRacer.lua';
+	scrName = 'https://raw.githubusercontent.com/xgomn/114514.IIjjjjiiiallloiia.xxxxg/refs/heads/main/AquaRacer.lua';
 elseif game.GameId == 6196633103 then
 	scrName = 'https://gist.githubusercontent.com/ExploiterGuy/71a2aafd533aff6ec8a15d261f08bde7/raw/e9a4950b2ee1b338b8941207c484bd8f9f8081b3/Find%2520the%2520Inside%2520Out%25202%2520%255BOBSF%255D';
 elseif game.GameId == 6170013953 then
