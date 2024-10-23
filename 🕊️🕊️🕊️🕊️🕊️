@@ -181,7 +181,7 @@ Tab:Button{
 	Name = "🕊️小go游戏中心v2🕊️",
 	Description = "小go 游戏V2",
 	Callback = function() 
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/lIlIlIlIlI24568/143628IIIIlllllliilililIIlll.YXZX.LUA/refs/heads/main/V2"))() end
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/lIlIlIlIlI24568/143628IIIIlllllliilililIIlll.YXZX.LUA/refs/heads/main/V2.lua"))() end
 }
 Tab:Button{
 	Name = "xgo所有国内外脚本合集                          脚本整合器",
